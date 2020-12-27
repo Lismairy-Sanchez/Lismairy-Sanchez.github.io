@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Lismairy-Sanchez.github.io/static/css/main.76b77709.chunk.css",
-    "main.js": "/Lismairy-Sanchez.github.io/static/js/main.1dccf84c.chunk.js",
-    "main.js.map": "/Lismairy-Sanchez.github.io/static/js/main.1dccf84c.chunk.js.map",
-    "runtime-main.js": "/Lismairy-Sanchez.github.io/static/js/runtime-main.6a7be474.js",
-    "runtime-main.js.map": "/Lismairy-Sanchez.github.io/static/js/runtime-main.6a7be474.js.map",
-    "static/js/2.4e5e353d.chunk.js": "/Lismairy-Sanchez.github.io/static/js/2.4e5e353d.chunk.js",
-    "static/js/2.4e5e353d.chunk.js.map": "/Lismairy-Sanchez.github.io/static/js/2.4e5e353d.chunk.js.map",
-    "static/js/3.7cf31349.chunk.js": "/Lismairy-Sanchez.github.io/static/js/3.7cf31349.chunk.js",
-    "static/js/3.7cf31349.chunk.js.map": "/Lismairy-Sanchez.github.io/static/js/3.7cf31349.chunk.js.map",
+    "main.css": "/Lismairy-Sanchez.github.io/static/css/main.1d15162b.chunk.css",
+    "main.js": "/Lismairy-Sanchez.github.io/static/js/main.2ebdee1c.chunk.js",
+    "main.js.map": "/Lismairy-Sanchez.github.io/static/js/main.2ebdee1c.chunk.js.map",
+    "runtime-main.js": "/Lismairy-Sanchez.github.io/static/js/runtime-main.3cf41083.js",
+    "runtime-main.js.map": "/Lismairy-Sanchez.github.io/static/js/runtime-main.3cf41083.js.map",
+    "static/js/2.fb4b51a8.chunk.js": "/Lismairy-Sanchez.github.io/static/js/2.fb4b51a8.chunk.js",
+    "static/js/2.fb4b51a8.chunk.js.map": "/Lismairy-Sanchez.github.io/static/js/2.fb4b51a8.chunk.js.map",
+    "static/js/3.c3dcdf64.chunk.js": "/Lismairy-Sanchez.github.io/static/js/3.c3dcdf64.chunk.js",
+    "static/js/3.c3dcdf64.chunk.js.map": "/Lismairy-Sanchez.github.io/static/js/3.c3dcdf64.chunk.js.map",
     "index.html": "/Lismairy-Sanchez.github.io/index.html",
-    "static/css/main.76b77709.chunk.css.map": "/Lismairy-Sanchez.github.io/static/css/main.76b77709.chunk.css.map",
-    "static/js/2.4e5e353d.chunk.js.LICENSE.txt": "/Lismairy-Sanchez.github.io/static/js/2.4e5e353d.chunk.js.LICENSE.txt"
+    "static/css/main.1d15162b.chunk.css.map": "/Lismairy-Sanchez.github.io/static/css/main.1d15162b.chunk.css.map",
+    "static/js/2.fb4b51a8.chunk.js.LICENSE.txt": "/Lismairy-Sanchez.github.io/static/js/2.fb4b51a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a7be474.js",
-    "static/js/2.4e5e353d.chunk.js",
-    "static/css/main.76b77709.chunk.css",
-    "static/js/main.1dccf84c.chunk.js"
+    "static/js/runtime-main.3cf41083.js",
+    "static/js/2.fb4b51a8.chunk.js",
+    "static/css/main.1d15162b.chunk.css",
+    "static/js/main.2ebdee1c.chunk.js"
   ]
 }
